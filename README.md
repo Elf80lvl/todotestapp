@@ -36,4 +36,7 @@
 
 Демо приложения:
 
+https://github.com/user-attachments/assets/c630a023-bbce-4dc3-8e52-4c0db5f05bd8
+
+
 
