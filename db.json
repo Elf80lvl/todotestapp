@@ -1,20 +1,32 @@
-[
+{
+  "todos": [
     {
-    "userId": 1,
-    "id": 1,
-    "title": "dfgdfgd",
-    "completed": false
+      "id": "1",
+      "title": "a title",
+      "description": "dfsdfsdf",
+      "category": "cat1",
+      "completed": false
     },
     {
-    "userId": 1,
-    "id": 2,
-    "title": "4534534",
-    "completed": false
+      "id": "2",
+      "title": "another title",
+      "description": "dfsdfsdf",
+      "category": "cat2",
+      "completed": false
     },
     {
-    "userId": 1,
-    "id": 3,
-    "title": "00000",
-    "completed": false
+      "id": "3",
+      "title": "third title",
+      "description": "dfsdfsdf",
+      "category": "cat2",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "4th title",
+      "description": "dfsdfsdf",
+      "category": "cat3",
+      "completed": false
     }
-]
+  ]
+}
